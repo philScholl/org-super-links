@@ -172,7 +172,7 @@ The variables below allow quite a bit of flexibility to allow you to fit =org-su
    Using =helm-org-ql= or =helm-org-rifle= will also add a new action to
    the respective action menu.
 
-   See the function [[#sl-link-search-interface-ql][sl-link-search-interface-ql]] in the
+   See the function =sl-link-search-interface-ql= in the
    =org-super-links-org-ql.el= file for an example.
 
    Default "=helm-org-ql="
